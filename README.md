@@ -28,7 +28,7 @@ A Laravel-based Event Booking System with Role-Based Access Control (RBAC), simu
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/preyash009/automatedPros-assessment.git
 cd site
 
 # Install dependencies
